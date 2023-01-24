@@ -42,3 +42,6 @@ elsif total == 2 || total == 3 || total == 12
 else 
     puts "The point is #{total}"
 end        
+
+# other relationships are there as well - >=, <=
+# nil data type - for an explty field
